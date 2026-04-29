@@ -14,8 +14,6 @@ Previous updates (v2.3.0):
 - **LLM-Powered Fixes**: Uses Claude API to intelligently add missing parameters to scripts
 - **Reduced Manual Intervention**: ~70% reduction in manual fixes needed for common issues
 
-See [CHANGELOG_v2.3.1.md](CHANGELOG_v2.3.1.md) for detailed information.
-
 ## Overview
 
 Skills-Coach analyzes, optimizes, and evaluates skills through a multi-agent pipeline:
