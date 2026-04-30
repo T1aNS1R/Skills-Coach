@@ -28,13 +28,17 @@ Skills-Coach analyzes, optimizes, and evaluates skills through a multi-agent pip
 
 ## Demo
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://www.youtube.com/watch?v=5mwwYAFZwU4">
-    <img src="https://img.youtube.com/vi/5mwwYAFZwU4/0.jpg" width="300">
-  </a>
-  <a href="https://www.youtube.com/watch?v=WrYM_bUTHuA">
-    <img src="https://img.youtube.com/vi/WrYM_bUTHuA/0.jpg" width="300">
-  </a>
+<div align="center">
+  <p><strong>Click images to watch videos on YouTube ↓</strong></p>
+  
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <a href="https://www.youtube.com/watch?v=5mwwYAFZwU4">
+      <img src="https://img.youtube.com/vi/5mwwYAFZwU4/0.jpg" width="300" alt="Video 1">
+    </a>
+    <a href="https://www.youtube.com/watch?v=WrYM_bUTHuA">
+      <img src="https://img.youtube.com/vi/WrYM_bUTHuA/0.jpg" width="300" alt="Video 2">
+    </a>
+  </div>
 </div>
 
 ## Key Features
