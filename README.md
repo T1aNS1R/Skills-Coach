@@ -28,19 +28,8 @@ Skills-Coach analyzes, optimizes, and evaluates skills through a multi-agent pip
 
 ## Demo
 
-<div align="center">
-  <video width="560" height="315" controls>
-    <source src="https://github.com/T1aNS1R/skills-coach/releases/download/V1.0/177b5b312190fc5a271c06256927427c.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+## Demo
 
-<div align="center">
-  <video width="560" height="315" controls>
-    <source src="https://github.com/T1aNS1R/skills-coach/releases/download/V1.0/e0356001087630404222ccaee6bd89dad.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
 
 ## Key Features
 
