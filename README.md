@@ -44,11 +44,15 @@ Skills-Coach analyzes, optimizes, and evaluates skills through a multi-agent pip
 ---
 
 ```
-Prompt: Please use the `skills-coach` in the current folder to optimize `test_skills\azure-deploy` in real mode.  
+Prompt Case_1: Please use the `skills-coach` in the current folder to optimize `test_skills\azure-deploy` in real mode.  
 If the skill being tested requires documents, webpages, or other materials, generate them directly when   
 creating the task and do not leave any required items empty. For any code involving API calls, run it     
 yourself directly instead of adding APIs, because APIs cannot be used; just generate the variants on my   
 behalf. Run strictly according to the specified number of rounds until there is an improvement.
+```
+
+```
+Prompt Case_2(If you want to use Claude API): Please use the `skills-coach` in the current folder to optimize `test_skills\azure-deploy` in real mode. 
 ```
 
 ## Key Features
