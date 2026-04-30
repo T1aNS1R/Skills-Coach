@@ -26,6 +26,16 @@ Skills-Coach analyzes, optimizes, and evaluates skills through a multi-agent pip
 6. **Auto-Fixer** - Automatically fixes common issues (NEW in v2.3.0)
 7. **Evaluate-Agent** - Evaluates results with enhanced multi-dimensional criteria
 
+## Demo
+
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/5mwwYAFZwU4" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/WrYM_bUTHuA" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Key Features
 
 ### Training-Free GRPO Optimization
